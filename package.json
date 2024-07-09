@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shivsingh001/Booking-System/issues"
   },
-  "homepage": "https://github.com/shivsingh001/Booking-System#readme"
+  "homepage": "https://github.com/shivsingh001/Booking-System#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
 }
