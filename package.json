@@ -1,0 +1,19 @@
+{
+  "name": "booking-system",
+  "version": "1.0.0",
+  "description": "This repo include code regarding the booking system application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivsingh001/Booking-System.git"
+  },
+  "author": "Shivam Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivsingh001/Booking-System/issues"
+  },
+  "homepage": "https://github.com/shivsingh001/Booking-System#readme"
+}
